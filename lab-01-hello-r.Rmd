@@ -218,7 +218,7 @@ The data frame we will be working with today is called `datasaurus_dozen` and it
 Actually, this single data frame contains 13 datasets, designed to show us why data visualisation is important and how summary statistics alone can be misleading.
 The different datasets are marked by the `dataset` variable.
 
-To find out more about the dataset, type the following in your Console: `?datasaurus_dozen`.
+To find out more about the dataset, type the following in your Console: '?datasaurus_dozen`.
 A question mark before the name of an object will always bring up its help file.
 This command must be ran in the Console.
 
@@ -248,6 +248,8 @@ In the paper, the authors simulate a variety of datasets that have the same summ
 🧶 ✅ ⬆️ *Knit, commit, and push your changes to GitHub with the commit message "Added answer for Ex 1". Make sure to commit and push all changed files so that your Git pane is cleared up afterwards.*
 
 2.  Plot `y` vs. `x` for the `dino` dataset. Then, calculate the correlation coefficient between `x` and `y` for this dataset.
+
+Correlation coefficient is cor(5,3)
 
 Below is the code you will need to complete this exercise.
 Basically, the answer is already given, but you need to include relevant bits in your Rmd document and successfully knit it and view the results.
